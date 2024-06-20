@@ -8,4 +8,5 @@ https://amelottiginevra.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 https://amelottiginevra.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 - Aperto_chiuso_2:
 https://amelottiginevra.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html
-
+- Aperto_chiuso_3:
+https://amelottiginevra.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
