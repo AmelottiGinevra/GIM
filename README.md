@@ -37,3 +37,6 @@ https://amelottiginevra.github.io/GIM/Esercizio_1C/README.md
 
 **Esercizio 2:**
 https://amelottiginevra.github.io/GIM/Esercizio_2/index.html
+
+**Esercizio 3:**
+https://amelottiginevra.github.io/GIM/Esercizio_3/index.html
