@@ -22,3 +22,6 @@ https://amelottiginevra.github.io/GIM/Esercizio_1A/rotazione_3.html
 
 - Spostamento_2:
 https://amelottiginevra.github.io/GIM/Esercizio_1A/spostamento_2.html
+
+- Spostamento_3:
+https://amelottiginevra.github.io/GIM/Esercizio_1A/spostamento_3.html
