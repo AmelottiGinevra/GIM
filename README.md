@@ -30,5 +30,10 @@ https://amelottiginevra.github.io/GIM/Esercizio_1A/spostamento_3.html
 **Esercizio 1B:**
 https://amelottiginevra.github.io/GIM/Esercizio_1B/indexA.html
 
+
 **Esercizio 1C:**
 https://amelottiginevra.github.io/GIM/Esercizio_1C/README.md
+
+
+**Esercizio 2:**
+https://amelottiginevra.github.io/GIM/Esercizio_2/index.html
